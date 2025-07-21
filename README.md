@@ -30,8 +30,8 @@ Estou aprendendo sobre os seguintes bancos de dados:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ViniS4rtor&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniS4rtor&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ViniS4rtor&show_icons=true&theme=tokyonight&include_all_commits=true$locale=pt-br" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniS4rtor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
 
