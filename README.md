@@ -23,9 +23,9 @@
 
 Estou aprendendo sobre os seguintes bancos de dados:
 
-<p align="center">
+<div style="display: inline_block"><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-</p>
+</div>
 
 ## 📊 GitHub Stats
 
