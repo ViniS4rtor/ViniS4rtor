@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Olá, sou Vinícius Sartor, e seja bem-vindo(a) ao meu GitHub! </h1>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=B808F7&lines=Programador+em+formação+;Adorador+de+Back-end+" />
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=B808F7&lines=Programador+em+formação+;Entusiata+de+Back-end+" />
 </p>
 
 <br>
